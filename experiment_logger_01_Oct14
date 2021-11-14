@@ -1,0 +1,11 @@
+1913
+Intended task:
+
+From the TOL dataset, please download 3 genomes and build the reference library. Then take 5 random 35 length strings from these 3 genomes. These 5 will be our queries. See how many matches our algorithm give. 
+Because of the LSH algorithm, I think the match number will not be exactly what we expect. We can experiment with this. 
+
+Random picking three genomes:
+
+>G000017785.fna NC_009749.1 Francisella tularensis subsp. holarctica FTNF002-00, complete sequence 
+>G000019605 NC_010482.1 Candidatus Korarchaeum cryptofilum OPF8, complete sequence
+>G000024785.fna NC_013441.1 Gordonia bronchialis DSM 43247, complete sequence
